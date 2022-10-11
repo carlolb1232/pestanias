@@ -11,7 +11,7 @@ function App() {
   }
   return (
     <div className="App">
-      <Tab cantidad={6} onIndex={getIndex}/>
+      <Tab cantidad={8} onIndex={getIndex}/>
       <Content tabNumber={index}/>
     </div>
   );

@@ -13,9 +13,9 @@
 }
 
 .tab-container button{
-  border: 1px solid black;
+  border: 1px solid rgb(229,229,229);
   padding: 10px 20px;
-  background-color: rgb(238,238,238);
+  background-color: white;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
@@ -26,7 +26,8 @@
   width: 30%;
   align-self: center;
   height: 150px;
-  border: 1px solid black;
+  border: 1px solid rgb(229,229,229);
+  padding: 15px;
   display: flex;
 }
 p{
